@@ -1,0 +1,1263 @@
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir D:\shubham\django_learning\django_signals\django_signals\signal_history\templates with glob **/*.
+Watching dir D:\shubham\django_learning\django_signals\django_signals\locale with glob **/*.mo.
+Watching dir D:\shubham\django_learning\django_signals\django_signals\signal_history\locale with glob **/*.mo.
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None; alias=default
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\defaultfilters.py first seen with mtime 1641532828.7861705
+File C:\Python310\Lib\threading.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\asyncio\log.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\timesince.py first seen with mtime 1641532828.8585343
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1641532828.4749203
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1641532828.4669414
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\query.py first seen with mtime 1641532828.6545224
+File C:\Python310\Lib\string.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\models.py first seen with mtime 1641532828.0373456
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\serializers\__init__.py first seen with mtime 1641532828.5626864
+File C:\Python310\Lib\unittest\case.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\heapq.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\cgi.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1641532827.6633413
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\state.py first seen with mtime 1641532828.6354918
+File C:\Python310\Lib\email\mime\base.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\functions\math.py first seen with mtime 1641532828.6694818
+File C:\Python310\Lib\linecache.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\keyword.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\keywords.py first seen with mtime 1641532824.5754817
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\signals.py first seen with mtime 1641532828.576649
+File C:\Python310\Lib\email\_policybase.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\__init__.py first seen with mtime 1641532827.6573527
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\admin.py first seen with mtime 1641735780.6761434
+File C:\Python310\Lib\pkgutil.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\asyncio\base_tasks.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\filters\others.py first seen with mtime 1641532824.5854647
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1641532828.6784587
+File C:\Python310\Lib\email\mime\message.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\pickle.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\urls\resolvers.py first seen with mtime 1641532828.8230703
+File C:\Python310\Lib\email\_encoded_words.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\security\csrf.py first seen with mtime 1641532828.509828
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\model_checks.py first seen with mtime 1641532828.5018494
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\apps\registry.py first seen with mtime 1641532824.972557
+File C:\Python310\DLLs\_zoneinfo.pyd first seen with mtime 1638799130.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\serializers\json.py first seen with mtime 1641532828.564681
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\autoreload.py first seen with mtime 1641532828.78218
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\models.py first seen with mtime 1641532825.3576243
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\messages.py first seen with mtime 1641532828.500852
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\fields\__init__.py first seen with mtime 1641532828.6585119
+File C:\Python310\DLLs\_overlapped.pyd first seen with mtime 1638799130.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\cache.py first seen with mtime 1641532828.830053
+File C:\Python310\Lib\gettext.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\sysconfig.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\decorators\cache.py first seen with mtime 1641532828.8734953
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\urls.py first seen with mtime 1641734711.2151797
+File C:\Python310\Lib\asyncio\proactor_events.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\sql\constants.py first seen with mtime 1641532828.675468
+File C:\Python310\Lib\email\charset.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1641532828.46794
+File C:\Python310\Lib\importlib\util.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\unittest\runner.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\backends.py first seen with mtime 1641532826.1657321
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\decorators.py first seen with mtime 1641532828.8380313
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\smartif.py first seen with mtime 1641532828.7931519
+File C:\Python310\Lib\platform.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\move.py first seen with mtime 1641532828.5158117
+File C:\Python310\Lib\tokenize.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\decorators\csrf.py first seen with mtime 1641532828.8764863
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1641532828.4769154
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\middleware\security.py first seen with mtime 1641532828.7801862
+File C:\Python310\Lib\stat.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\asyncio\tasks.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1641532824.5844586
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1641532826.4077477
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\cli.py first seen with mtime 1641532824.5724914
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\utils.py first seen with mtime 1641532824.5784762
+File C:\Python310\Lib\posixpath.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\subprocess.py first seen with mtime 1638799076.0
+File C:\Python310\DLLs\_uuid.pyd first seen with mtime 1638799130.0
+File C:\Python310\Lib\urllib\error.py first seen with mtime 1638799076.0
+File C:\Python310\DLLs\unicodedata.pyd first seen with mtime 1638799134.0
+File C:\Python310\Lib\asyncio\mixins.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\types.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\loader.py first seen with mtime 1641532828.7911563
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\generic\base.py first seen with mtime 1641532828.8824694
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\forms.py first seen with mtime 1641532826.1697228
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\__init__.py first seen with mtime 1641532828.781183
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\__init__.py first seen with mtime 1641532826.1627536
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\validators.py first seen with mtime 1641532826.1786973
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\ddl_references.py first seen with mtime 1641532828.5756538
+File C:\Python310\Lib\sre_compile.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\options.py first seen with mtime 1641532828.6535249
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\http\__init__.py first seen with mtime 1641532828.7672205
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\text.py first seen with mtime 1641532828.8575363
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\loaders\base.py first seen with mtime 1641532828.8011296
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\translation\reloader.py first seen with mtime 1641532828.8645215
+File C:\Python310\Lib\typing.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\urllib\parse.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\management\commands\__init__.py first seen with mtime 1641532828.539747
+File C:\Python310\Lib\dataclasses.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\functions\text.py first seen with mtime 1641532828.671477
+File C:\Python310\Lib\email\contentmanager.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\mimetypes.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\unittest\signals.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\base.py first seen with mtime 1641532828.644468
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\middleware.py first seen with mtime 1641532826.1717525
+File C:\Python310\Lib\asyncio\trsock.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\asyncio\streams.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\email\__init__.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\django_signals\manage.py first seen with mtime 1641532839.2035458
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\apps.py first seen with mtime 1641532828.0343542
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\utils.py first seen with mtime 1641532825.3616145
+File C:\Python310\Lib\logging\__init__.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\hashlib.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\unittest\result.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\backends\base.py first seen with mtime 1641532828.7961428
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\timezone.py first seen with mtime 1641532828.8595335
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\datastructures.py first seen with mtime 1641532828.8330445
+File C:\Python310\Lib\asyncio\protocols.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\lexer.py first seen with mtime 1641532824.5764785
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\helpers.py first seen with mtime 1641532825.3566275
+File C:\Python310\Lib\importlib\__init__.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\zoneinfo\_common.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\base\validation.py first seen with mtime 1641532828.5866218
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\forms\widgets.py first seen with mtime 1641532828.6914241
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\serializers\python.py first seen with mtime 1641532828.5666752
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1641532826.174748
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\http\request.py first seen with mtime 1641532828.7702124
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1641532828.4888842
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\library.py first seen with mtime 1641532828.7901595
+File C:\Python310\Lib\email\feedparser.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\forms\forms.py first seen with mtime 1641532828.6864502
+File C:\Python310\Lib\wsgiref\headers.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\apps.py first seen with mtime 1641532825.3516397
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\autoreload.py first seen with mtime 1641532828.8280573
+File C:\Python310\Lib\json\encoder.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\http\cookie.py first seen with mtime 1641532828.768218
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\dateparse.py first seen with mtime 1641532828.834042
+File C:\Python310\Lib\http\server.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1641532824.5874498
+File C:\Python310\Lib\asyncio\windows_events.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\signals.py first seen with mtime 1641532826.175706
+File C:\Python310\DLLs\_ssl.pyd first seen with mtime 1638799132.0
+File C:\Python310\Lib\email\mime\multipart.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\genericpath.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\asyncio\constants.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\deletion.py first seen with mtime 1641532828.6474593
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\sql\where.py first seen with mtime 1641532828.6794565
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\serializers\base.py first seen with mtime 1641532828.563684
+File C:\Python310\Lib\unittest\suite.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1641532826.4057868
+File C:\Python310\DLLs\_socket.pyd first seen with mtime 1638799132.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\management\commands\runserver.py first seen with mtime 1641532828.5517154
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1641532828.6764646
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\security\__init__.py first seen with mtime 1641532828.507833
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\__init__.py first seen with mtime 1641532825.3486478
+File C:\Python310\DLLs\_lzma.pyd first seen with mtime 1638799132.0
+File C:\Python310\Lib\signal.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\admin.py first seen with mtime 1641532826.163774
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\compatibility\django_4_0.py first seen with mtime 1641532828.5068352
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1641532828.0333562
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1641532824.5804706
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\translation\trans_real.py first seen with mtime 1641532828.86751
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1641532826.4037943
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\checks.py first seen with mtime 1641532825.3526368
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\conf\__init__.py first seen with mtime 1641532824.9735682
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\dateformat.py first seen with mtime 1641532828.8330445
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\hashable.py first seen with mtime 1641532828.8440292
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\filters.py first seen with mtime 1641532825.3546302
+File C:\Python310\Lib\enum.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\handlers\wsgi.py first seen with mtime 1641532828.5237918
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\__init__.py first seen with mtime 1641532828.8250668
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\filters\tokens.py first seen with mtime 1641532824.588448
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\mail\__init__.py first seen with mtime 1641532828.524787
+File C:\Python310\Lib\asyncio\futures.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\apps\__init__.py first seen with mtime 1641532824.9705634
+File C:\Python310\Lib\concurrent\futures\__init__.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\exceptions.py first seen with mtime 1641532828.6275132
+File C:\Python310\Lib\_compression.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\pprint.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\asyncio\queues.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\functions\__init__.py first seen with mtime 1641532828.6674876
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1641532828.661503
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\sqlite3\__init__.py first seen with mtime 1641532828.6175392
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\urls\__init__.py first seen with mtime 1641532828.8180861
+File C:\Python310\Lib\email\quoprimime.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\urls\exceptions.py first seen with mtime 1641532828.8220737
+File C:\Python310\Lib\_collections_abc.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\tokens.py first seen with mtime 1641532824.5784762
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\templatetags\cache.py first seen with mtime 1641532828.8051205
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\sql.py first seen with mtime 1641532824.577479
+File C:\Python310\Lib\random.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\models.py first seen with mtime 1641806730.9863665
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\forms\models.py first seen with mtime 1641532828.6884434
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1641532825.943463
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\base\creation.py first seen with mtime 1641532828.5806382
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\duration.py first seen with mtime 1641532828.8390405
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\__init__.py first seen with mtime 1641532828.571663
+File C:\Python310\Lib\json\__init__.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\base.py first seen with mtime 1641532828.7831779
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\sql\__init__.py first seen with mtime 1641532828.6734717
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\__init__.py first seen with mtime 1641532828.5118227
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\base\schema.py first seen with mtime 1641532828.5856256
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\generic\detail.py first seen with mtime 1641532828.8844652
+File C:\Python310\Lib\json\decoder.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\async_checks.py first seen with mtime 1641532828.4978592
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\tree.py first seen with mtime 1641532828.8615258
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1641532826.4017646
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\sqlite3\creation.py first seen with mtime 1641532828.6195345
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\signals.py first seen with mtime 1641532828.6555202
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\caches.py first seen with mtime 1641532828.4988573
+File C:\Python310\Lib\email\iterators.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\shortcuts.py first seen with mtime 1641532824.9695652
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\sqlite3\schema.py first seen with mtime 1641532828.624521
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1641532828.4659457
+File C:\Python310\Lib\_weakrefset.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\engine\__init__.py first seen with mtime 1641532824.5794723
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\urls.py first seen with mtime 1641532828.505838
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1641532828.6394806
+File C:\Python310\Lib\base64.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\servers\__init__.py first seen with mtime 1641532828.5697083
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\loader_tags.py first seen with mtime 1641532828.7911563
+File C:\Python310\Lib\email\mime\nonmultipart.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\paginator.py first seen with mtime 1641532828.4829283
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\asgiref\sync.py first seen with mtime 1641532824.834662
+File C:\Python310\Lib\os.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\asyncio\base_subprocess.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\forms\boundfield.py first seen with mtime 1641532828.684442
+File C:\Python310\DLLs\_queue.pyd first seen with mtime 1638799130.0
+File C:\Python310\Lib\zoneinfo\_tzpath.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\token.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1641532828.6664903
+File C:\Python310\Lib\email\utils.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\fields\files.py first seen with mtime 1641532828.6595087
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\servers\basehttp.py first seen with mtime 1641532828.5706654
+File C:\Python310\Lib\http\__init__.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\base\features.py first seen with mtime 1641532828.5816352
+File C:\Python310\Lib\concurrent\futures\thread.py first seen with mtime 1638799074.0
+File C:\Python310\DLLs\_ctypes.pyd first seen with mtime 1638799130.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\functions\window.py first seen with mtime 1641532828.6724746
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\sqlite3\features.py first seen with mtime 1641532828.6205318
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\decorators.py first seen with mtime 1641532825.3536353
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\fields\json.py first seen with mtime 1641532828.660506
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\sql\query.py first seen with mtime 1641532828.6774611
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1641532825.9384763
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\sqlite3\introspection.py first seen with mtime 1641532828.6215346
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\context.py first seen with mtime 1641532828.7841759
+File C:\Python310\Lib\email\message.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\safestring.py first seen with mtime 1641532828.8549855
+File C:\Python310\Lib\hmac.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\http\cookies.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\asyncio\threads.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\indexes.py first seen with mtime 1641532828.650452
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\constants.py first seen with mtime 1641532827.6593497
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\exceptions.py first seen with mtime 1641532828.789162
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\version.py first seen with mtime 1641532828.8625236
+File C:\Python310\Lib\ast.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\urllib\response.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\middleware\__init__.py first seen with mtime 1641532828.7722075
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\forms\formsets.py first seen with mtime 1641532828.6874406
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\forms\utils.py first seen with mtime 1641532828.690428
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1641532828.665494
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\csrf.py first seen with mtime 1641532828.8685093
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\functional.py first seen with mtime 1641532828.8430176
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\utils.py first seen with mtime 1641532828.5776465
+File C:\Python310\Lib\lzma.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\html.py first seen with mtime 1641532828.845021
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\filters\output.py first seen with mtime 1641532824.5854647
+File C:\Python310\Lib\ipaddress.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1641532826.1717525
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\__init__.py first seen with mtime 1641532828.4799092
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\locks.py first seen with mtime 1641532828.514814
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\validators.py first seen with mtime 1641532828.4849088
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\asgiref\compatibility.py first seen with mtime 1641532824.8300033
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\utils.py first seen with mtime 1641532828.6565173
+File C:\Python310\Lib\socketserver.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\exceptions.py first seen with mtime 1641532828.4819438
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\cache\backends\base.py first seen with mtime 1641532828.489884
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1641532828.6374865
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\security\base.py first seen with mtime 1641532828.5088408
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\signing.py first seen with mtime 1641532828.4838984
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1641532826.4027596
+File C:\Python310\Lib\copy.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\views.py first seen with mtime 1641806735.4513443
+File C:\Python310\Lib\fnmatch.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\conf\locale\__init__.py first seen with mtime 1641532824.9825344
+File C:\Python310\Lib\pathlib.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\apps.py first seen with mtime 1641806158.349959
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\security\sessions.py first seen with mtime 1641532828.5108256
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1641532825.9394722
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\_os.py first seen with mtime 1641532828.8250668
+File C:\Python310\Lib\zoneinfo\__init__.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\options.py first seen with mtime 1641532825.3586228
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\filters\__init__.py first seen with mtime 1641532824.5834615
+File C:\Python310\DLLs\_asyncio.pyd first seen with mtime 1638799130.0
+File C:\Python310\DLLs\_decimal.pyd first seen with mtime 1638799132.0
+File C:\Python310\Lib\encodings\cp1252.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\mail\utils.py first seen with mtime 1641532828.526785
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\itercompat.py first seen with mtime 1641532828.848005
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\utils.py first seen with mtime 1641532828.636489
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\__init__.py first seen with mtime 1641532828.4968626
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\decorators\debug.py first seen with mtime 1641532828.8774827
+File C:\Python310\Lib\fractions.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1641532825.9444587
+File C:\Python310\Lib\email\headerregistry.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\operations\special.py first seen with mtime 1641532828.6414757
+File C:\Python310\DLLs\select.pyd first seen with mtime 1638799132.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\enums.py first seen with mtime 1641532828.648456
+File C:\Python310\Lib\email\generator.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\collections\__init__.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\sqlite3\__init__.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\mail\message.py first seen with mtime 1641532828.5257852
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\templates.py first seen with mtime 1641532828.5038438
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\templatetags\i18n.py first seen with mtime 1641532828.8061168
+File C:\Python310\Lib\datetime.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\sqlite3\base.py first seen with mtime 1641532828.6185362
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\templatetags\__init__.py first seen with mtime 1641532828.8041232
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\models.py first seen with mtime 1641532826.1737096
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\urls\base.py first seen with mtime 1641532828.8190825
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\__init__.py first seen with mtime 1641532824.5704951
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\storage.py first seen with mtime 1641532828.5158117
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1641532828.035351
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\templatetags\tz.py first seen with mtime 1641532828.8091083
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\compatibility\__init__.py first seen with mtime 1641532828.5068352
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1641532828.4888842
+File C:\Python310\Lib\statistics.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\site.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\sqlite3\client.py first seen with mtime 1641532828.6195345
+File C:\Python310\Lib\inspect.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\contextlib.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\ntpath.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\__init__.py first seen with mtime 1641532824.967608
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\uploadedfile.py first seen with mtime 1641532828.5178115
+File C:\Python310\Lib\logging\config.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\secrets.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\copyreg.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\base.py first seen with mtime 1641532828.5128202
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\tokens.py first seen with mtime 1641532826.1767044
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\signals.py first seen with mtime 1641532828.4838984
+File C:\Python310\Lib\wsgiref\simple_server.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\html\parser.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\functions\mixins.py first seen with mtime 1641532828.6704795
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1641532825.943463
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\forms\renderers.py first seen with mtime 1641532828.6894293
+File C:\Python310\Lib\concurrent\futures\_base.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1641532828.4719298
+File C:\Python310\Lib\functools.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\topological_sort.py first seen with mtime 1641532828.8605282
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\deprecation.py first seen with mtime 1641532828.8380313
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\decorators\__init__.py first seen with mtime 1641532828.8734953
+File C:\Python310\Lib\email\policy.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1641532825.9454572
+File C:\Python310\Lib\collections\abc.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1641532828.036348
+File C:\Python310\Lib\unittest\util.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\codecs.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1641532825.9405074
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1641532828.2648933
+File C:\Python310\Lib\email\_header_value_parser.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\termcolors.py first seen with mtime 1641532828.8565357
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\base\__init__.py first seen with mtime 1641532828.5776465
+File C:\Python310\DLLs\_hashlib.pyd first seen with mtime 1638799130.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\__init__.py first seen with mtime 1641532825.349645
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\apps.py first seen with mtime 1641532827.6583598
+File C:\Python310\Lib\asyncio\transports.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\importlib\_abc.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1641532825.3536353
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\translation.py first seen with mtime 1641532828.5048406
+File C:\Python310\Lib\sqlite3\dbapi2.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1641532828.472927
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\uploadhandler.py first seen with mtime 1641532828.5188053
+File C:\Python310\Lib\email\mime\text.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\urllib\__init__.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\warnings.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\asyncio\coroutines.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\email\header.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\asyncio\locks.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\numberformat.py first seen with mtime 1641532828.8529916
+File C:\Python310\Lib\email\errors.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\constants.py first seen with mtime 1641532828.645465
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\fields\mixins.py first seen with mtime 1641532828.660506
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\base_user.py first seen with mtime 1641532826.1657321
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1641532824.5824654
+File C:\Python310\Lib\struct.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\http\client.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\formatter.py first seen with mtime 1641532824.5744846
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\generic\edit.py first seen with mtime 1641532828.8854616
+File C:\Python310\Lib\ctypes\_endian.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\sqlite3\operations.py first seen with mtime 1641532828.622526
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1641532826.4067512
+File C:\Python310\Lib\_markupbase.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\utils.py first seen with mtime 1641532828.7941482
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\dispatch\__init__.py first seen with mtime 1641532828.680452
+File C:\Python310\Lib\traceback.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\bz2.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\generic\list.py first seen with mtime 1641532828.8864598
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\database.py first seen with mtime 1641532828.4998538
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\engine.py first seen with mtime 1641532828.7881644
+File C:\Python310\Lib\asyncio\events.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\templatetags\static.py first seen with mtime 1641532828.808113
+File C:\Python310\Lib\ssl.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\asyncio\selector_events.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\apps\config.py first seen with mtime 1641532824.9715986
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\regex_helper.py first seen with mtime 1641532828.853989
+File C:\Python310\Lib\asyncio\staggered.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\templatetags\l10n.py first seen with mtime 1641532828.807114
+File D:\shubham\django_learning\django_signals\django_signals\django_signals\__init__.py first seen with mtime 1641532839.2511415
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\asgiref\current_thread_executor.py first seen with mtime 1641532824.8310022
+File C:\Python310\Lib\sre_parse.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\_compat_pickle.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\views\main.py first seen with mtime 1641532825.9474518
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\operations\base.py first seen with mtime 1641532828.6384828
+File C:\Python310\Lib\urllib\request.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\apps.py first seen with mtime 1641532826.1647341
+File C:\Python310\Lib\getpass.py first seen with mtime 1638799074.0
+File C:\Python310\DLLs\_sqlite3.pyd first seen with mtime 1638799130.0
+File C:\Python310\Lib\shutil.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\loaders\app_directories.py first seen with mtime 1641532828.8001328
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\base\introspection.py first seen with mtime 1641532828.582634
+File C:\Python310\Lib\ctypes\__init__.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\bisect.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\numbers.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\selectors.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\unittest\loader.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\unittest\__init__.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\encodings\__init__.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\ctypes\wintypes.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\sre_constants.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\json\scanner.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\expressions.py first seen with mtime 1641532828.6494546
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1641532828.4928734
+File C:\Python310\Lib\html\entities.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\fields\related.py first seen with mtime 1641532828.6634984
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\management\__init__.py first seen with mtime 1641532828.5337636
+File C:\Python310\Lib\asyncio\windows_utils.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1641532828.6644957
+File C:\Python310\Lib\logging\handlers.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1641532826.3848095
+File C:\Python310\Lib\concurrent\__init__.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\http.py first seen with mtime 1641532828.8460097
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\loaders\filesystem.py first seen with mtime 1641532828.8031242
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\log.py first seen with mtime 1641532828.849999
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\checks.py first seen with mtime 1641532826.1667285
+File C:\Python310\Lib\encodings\utf_8.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\html\__init__.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\api.py first seen with mtime 1641532827.6583598
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\wsgi.py first seen with mtime 1641532828.4859283
+File C:\Python310\Lib\encodings\aliases.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\urls\conf.py first seen with mtime 1641532828.8200805
+File C:\Python310\Lib\importlib\machinery.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\http\multipartparser.py first seen with mtime 1641532828.7692156
+File C:\Python310\Lib\email\mime\__init__.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\inspect.py first seen with mtime 1641532828.8470068
+File C:\Python310\Lib\gzip.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\re.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\wsgiref\util.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\static.py first seen with mtime 1641532828.8724966
+File C:\Python310\Lib\asyncio\base_futures.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\functions\datetime.py first seen with mtime 1641532828.6684873
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\forms\fields.py first seen with mtime 1641532828.6854398
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\conf\global_settings.py first seen with mtime 1641532824.9745584
+File C:\Python310\Lib\dis.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\wsgiref\handlers.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\module_loading.py first seen with mtime 1641532828.8519936
+File C:\Python310\Lib\abc.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\temp.py first seen with mtime 1641532828.5168111
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\formats.py first seen with mtime 1641532828.84202
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\engine\grouping.py first seen with mtime 1641532824.5815039
+File C:\Python310\Lib\uu.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1641532825.942466
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1641532828.8509965
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\manager.py first seen with mtime 1641532828.6525247
+File C:\Python310\Lib\nturl2path.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sites\__init__.py first seen with mtime 1641532828.2568781
+File C:\Python310\Lib\uuid.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\asyncio\__init__.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\asgiref\__init__.py first seen with mtime 1641532824.8280108
+File C:\Python310\Lib\email\encoders.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\difflib.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\asyncio\exceptions.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\translation\__init__.py first seen with mtime 1641532828.863522
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\dispatch\dispatcher.py first seen with mtime 1641532828.68145
+File C:\Python310\Lib\quopri.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\generic\dates.py first seen with mtime 1641532828.8834677
+File C:\Python310\Lib\operator.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\contextvars.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\lookups.py first seen with mtime 1641532828.650452
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\deconstruct.py first seen with mtime 1641532828.8370337
+File C:\Python310\Lib\calendar.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\base\base.py first seen with mtime 1641532828.5786438
+File C:\Python310\Lib\email\base64mime.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\files.py first seen with mtime 1641532828.4998538
+File C:\Python310\Lib\weakref.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\filters\reindent.py first seen with mtime 1641532824.5864527
+File D:\shubham\django_learning\django_signals\django_signals\django_signals\urls.py first seen with mtime 1641734001.914541
+File C:\Python310\Lib\queue.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\handlers\asgi.py first seen with mtime 1641532828.5207994
+File C:\Python310\Lib\reprlib.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\urls\utils.py first seen with mtime 1641532828.8240678
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\constraints.py first seen with mtime 1641532828.6464624
+File C:\Python310\Lib\asyncio\subprocess.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\asyncio\runners.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\base\client.py first seen with mtime 1641532828.5796406
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\sqlparse\exceptions.py first seen with mtime 1641532824.5734873
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\functions\comparison.py first seen with mtime 1641532828.6674876
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\defaulttags.py first seen with mtime 1641532828.7871664
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\transaction.py first seen with mtime 1641532828.5726933
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\generic\__init__.py first seen with mtime 1641532828.8814747
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\backends\django.py first seen with mtime 1641532828.7961428
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\debug.py first seen with mtime 1641532828.8695073
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\actions.py first seen with mtime 1641532825.3506427
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\utils.py first seen with mtime 1641532828.5736585
+File C:\Python310\Lib\asyncio\sslproto.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\utils.py first seen with mtime 1641532828.5198007
+File C:\Python310\Lib\_sitebuiltins.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\handlers\base.py first seen with mtime 1641532828.5217967
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\__init__.py first seen with mtime 1641532927.167547
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\middleware\cache.py first seen with mtime 1641532828.773204
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\forms\__init__.py first seen with mtime 1641532828.6834455
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\ipv6.py first seen with mtime 1641532828.848005
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\encoding.py first seen with mtime 1641532828.8400254
+File C:\Python310\Lib\wsgiref\__init__.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\tempfile.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\operations\models.py first seen with mtime 1641532828.6404788
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\loaders\__init__.py first seen with mtime 1641532828.7991352
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\decorators.py first seen with mtime 1641532826.1697228
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\__init__.py first seen with mtime 1641532828.5746548
+File C:\Python310\Lib\asyncio\format_helpers.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\crypto.py first seen with mtime 1641532828.8320477
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\asyncio.py first seen with mtime 1641532828.8270602
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1641532828.4938705
+File C:\Python310\Lib\unittest\main.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\response.py first seen with mtime 1641532828.792154
+File C:\Python310\Lib\locale.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\widgets.py first seen with mtime 1641532825.36261
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\management\color.py first seen with mtime 1641532828.5357587
+File C:\Python310\Lib\glob.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\asgiref\local.py first seen with mtime 1641532824.831998
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\middleware\csrf.py first seen with mtime 1641532828.7761962
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\dates.py first seen with mtime 1641532828.8350387
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\migration.py first seen with mtime 1641532828.6315017
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\__init__.py first seen with mtime 1641532828.6424727
+File C:\Python310\Lib\argparse.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1641532826.780166
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\http\response.py first seen with mtime 1641532828.7712107
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\utils\connection.py first seen with mtime 1641532828.83105
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\handlers\exception.py first seen with mtime 1641532828.5227942
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\decorators\common.py first seen with mtime 1641532828.8754923
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1641532826.4087434
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1641532828.46794
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\backends\__init__.py first seen with mtime 1641532828.7951484
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\files\images.py first seen with mtime 1641532828.5138173
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1641532828.4659457
+File C:\Python310\DLLs\_bz2.pyd first seen with mtime 1638799130.0
+File D:\shubham\django_learning\django_signals\django_signals\django_signals\settings.py first seen with mtime 1641807016.8268566
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\checks\registry.py first seen with mtime 1641532828.5028467
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\backends\base\operations.py first seen with mtime 1641532828.583631
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\i18n.py first seen with mtime 1641532828.871501
+File C:\Python310\Lib\opcode.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1641532828.473938
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\__init__.py first seen with mtime 1641532828.8685093
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\__init__.py first seen with mtime 1641532828.625519
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\urls\converters.py first seen with mtime 1641532828.8210764
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\sites.py first seen with mtime 1641532825.3596177
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\cache\__init__.py first seen with mtime 1641532828.4878871
+File C:\Python310\Lib\io.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\email\_parseaddr.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\management\base.py first seen with mtime 1641532828.5347612
+File C:\Python310\Lib\asyncio\base_events.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\query_utils.py first seen with mtime 1641532828.6555202
+File C:\Python310\Lib\email\parser.py first seen with mtime 1638799074.0
+File C:\Python310\Lib\socket.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\core\handlers\__init__.py first seen with mtime 1641532828.5198007
+File C:\Python310\Lib\decimal.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\aggregates.py first seen with mtime 1641532828.6434708
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1641532826.4047918
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\templates\home.html first seen with mtime 1641565951.2070613
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\templates\login.html first seen with mtime 1641731411.725823
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\templates\register.html first seen with mtime 1641738029.719943
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1641532826.3967762
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1641532825.7678611
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1641532826.391804
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1641532826.38983
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\migrations\0002_remove_authenticate_history_records_time.py first seen with mtime 1641795445.931636
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1641532826.395782
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1641532828.633497
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1641532826.3887985
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\views\defaults.py first seen with mtime 1641532828.8705041
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1641532828.674469
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1641532826.392788
+File D:\shubham\django_learning\django_signals\django_signals\django_signals\wsgi.py first seen with mtime 1641532839.250146
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1641532827.6613426
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1641532828.2498956
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1641532828.628511
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1641532825.7678611
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1641532826.3987715
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1641532828.043331
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1641532828.2498956
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1641532826.3937862
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1641532828.0393403
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1641532826.3908293
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\migrations\0001_initial.py first seen with mtime 1641737820.4705858
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1641532825.7668648
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\migrations\__init__.py first seen with mtime 1641735550.3495624
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1641532826.3878384
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1641532828.036348
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1641532826.3977818
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1641532826.3987715
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1641532828.7742014
+File D:\shubham\django_learning\django_signals\django_signals\signal_history\migrations\0003_authenticate_history_recordstype.py first seen with mtime 1641797193.6610463
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1641532825.3466537
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1641532828.0403378
+File C:\Python310\Lib\encodings\idna.py first seen with mtime 1638799074.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1641532826.3947814
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\middleware\common.py first seen with mtime 1641532828.7752
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1641532826.7831573
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1641532828.628511
+File C:\Python310\Lib\stringprep.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1641532826.7851512
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1641532828.630518
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1641532825.7658677
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1641532826.7841551
+"GET / HTTP/1.1" 200 2594
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1641532827.665331
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1641532827.6673267
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1641532827.664343
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1641532828.0383434
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1641532826.1687248
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1641532827.6613426
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1641532827.6603444
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\template\context_processors.py first seen with mtime 1641532828.785173
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1641532827.6663291
+(0.000) INSERT INTO "auth_user" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff", "is_active", "date_joined") SELECT 'pbkdf2_sha256$320000$sDu9TON8dDLl1vb6lQAxFw$10ldMLesii/X0gghpoUjy467868Qh/2KEqEEcq5ZW28=', NULL, 0, 'komal', '', '', 'komal@gmail.com', 0, 1, '2022-01-10 09:31:35.830952' RETURNING "auth_user"."id"; args=('pbkdf2_sha256$320000$sDu9TON8dDLl1vb6lQAxFw$10ldMLesii/X0gghpoUjy467868Qh/2KEqEEcq5ZW28=', None, False, 'komal', '', '', 'komal@gmail.com', False, True, '2022-01-10 09:31:35.830952'); alias=default
+"POST / HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 2164
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."username" = 'komal' LIMIT 21; args=('komal',); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2022-01-10 09:31:44.294596' AND "django_session"."session_key" = 'uu8f2iaqoi15ay6xmdpqsg97lnxmoqtw') LIMIT 21; args=('2022-01-10 09:31:44.294596', 'uu8f2iaqoi15ay6xmdpqsg97lnxmoqtw'); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE "django_session"."session_key" = 'uu8f2iaqoi15ay6xmdpqsg97lnxmoqtw' LIMIT 21; args=('uu8f2iaqoi15ay6xmdpqsg97lnxmoqtw',); alias=default
+(0.000) DELETE FROM "django_session" WHERE "django_session"."session_key" IN ('uu8f2iaqoi15ay6xmdpqsg97lnxmoqtw'); args=('uu8f2iaqoi15ay6xmdpqsg97lnxmoqtw',); alias=default
+(0.015) UPDATE "auth_user" SET "last_login" = '2022-01-10 09:31:44.305540' WHERE "auth_user"."id" = 13; args=('2022-01-10 09:31:44.305540', 13); alias=default
+(0.000) INSERT INTO "signal_history_authenticate_history" ("date_time", "user_name_id", "recordstype") SELECT '2022-01-10 15:01:44.312522', 13, 'li' RETURNING "signal_history_authenticate_history"."id"; args=('2022-01-10 15:01:44.312522', 13, 'li'); alias=default
+logged in now
+(0.000) SELECT (1) AS "a" FROM "django_session" WHERE "django_session"."session_key" = '9wost2bbi5xb3y8atmzhduzln7bpqu8t' LIMIT 1; args=('9wost2bbi5xb3y8atmzhduzln7bpqu8t',); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) INSERT INTO "django_session" ("session_key", "session_data", "expire_date") SELECT '9wost2bbi5xb3y8atmzhduzln7bpqu8t', '.eJxVjEEOwiAQRe_C2hAYoFCX7j0DGTqDVA0kpV0Z765NutDtf-_9l4i4rSVunZc4kzgLbcTpd0w4PbjuhO5Yb01Ora7LnOSuyIN2eW3Ez8vh_h0U7OVbm8xB-QxBJ5f86NhysGhBASZrCLNzwQ8IOnliUiYDBgYyA1sHozPi_QEElTfW:1n6r1k:RXqy2wAuxFJctJL_jlJqifyd-7yCg0ouytCODGNEpic', '2022-01-24 09:31:44.335155'; args=('9wost2bbi5xb3y8atmzhduzln7bpqu8t', '.eJxVjEEOwiAQRe_C2hAYoFCX7j0DGTqDVA0kpV0Z765NutDtf-_9l4i4rSVunZc4kzgLbcTpd0w4PbjuhO5Yb01Ora7LnOSuyIN2eW3Ez8vh_h0U7OVbm8xB-QxBJ5f86NhysGhBASZrCLNzwQ8IOnliUiYDBgYyA1sHozPi_QEElTfW:1n6r1k:RXqy2wAuxFJctJL_jlJqifyd-7yCg0ouytCODGNEpic', '2022-01-24 09:31:44.335155'); alias=default
+"POST /login/ HTTP/1.1" 302 0
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2022-01-10 09:31:44.347094' AND "django_session"."session_key" = '9wost2bbi5xb3y8atmzhduzln7bpqu8t') LIMIT 21; args=('2022-01-10 09:31:44.347094', '9wost2bbi5xb3y8atmzhduzln7bpqu8t'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 13 LIMIT 21; args=(13,); alias=default
+"GET /home/ HTTP/1.1" 200 912
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\tzdata\zoneinfo\__init__.py first seen with mtime 1641532824.0090709
+File C:\Python310\Lib\zipfile.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\importlib\_common.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\importlib\abc.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\importlib\resources.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\importlib\_adapters.py first seen with mtime 1638799076.0
+File C:\Python310\Lib\importlib\readers.py first seen with mtime 1638799076.0
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\tzdata\__init__.py first seen with mtime 1641532823.9681604
+(0.016) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2022-01-10 09:31:47.368049' AND "django_session"."session_key" = '9wost2bbi5xb3y8atmzhduzln7bpqu8t') LIMIT 21; args=('2022-01-10 09:31:47.368049', '9wost2bbi5xb3y8atmzhduzln7bpqu8t'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 13 LIMIT 21; args=(13,); alias=default
+(0.000) INSERT INTO "signal_history_authenticate_history" ("date_time", "user_name_id", "recordstype") SELECT '2022-01-10 15:01:47.376030', 13, 'lo' RETURNING "signal_history_authenticate_history"."id"; args=('2022-01-10 15:01:47.376030', 13, 'lo'); alias=default
+logged out now
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE "django_session"."session_key" = '9wost2bbi5xb3y8atmzhduzln7bpqu8t' LIMIT 21; args=('9wost2bbi5xb3y8atmzhduzln7bpqu8t',); alias=default
+(0.000) DELETE FROM "django_session" WHERE "django_session"."session_key" IN ('9wost2bbi5xb3y8atmzhduzln7bpqu8t'); args=('9wost2bbi5xb3y8atmzhduzln7bpqu8t',); alias=default
+"GET /logout_user HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 2164
+"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 302 0
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 862, in _resolve_lookup
+    current = current[bit]
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 868, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 876, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 881, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x0000024B43FCE8C0>>, 'request': <WSGIRequest: GET '/admin/login/?next=/admin/signal_history/authenticate_history/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000024B440EF190>>, 'perms': PermWrapper(<SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000024B440EF190>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/admin/login/?next=/admin/signal_history/authenticate_history/'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x0000024B441F03A0>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/admin/login/?next=/admin/signal_history/authenticate_history/', 'username': '', 'next': '/admin/signal_history/authenticate_history/', 'site': <django.contrib.sites.requests.RequestSite object at 0x0000024B4415C0D0>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: title. Contents: [<IfNode>, <Variable Node: title>, <TextNode: ' | '>, <Variable Node: site_title|default:_('Django site admin')>]>}]
+Exception while resolving variable 'subtitle' in template 'admin/login.html'.
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 862, in _resolve_lookup
+    current = current[bit]
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 868, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(type(current), bit):
+AttributeError: type object 'RequestContext' has no attribute 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 876, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'subtitle'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 881, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [subtitle] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: <function csrf.<locals>._get_val at 0x0000024B43FCE8C0>>, 'request': <WSGIRequest: GET '/admin/login/?next=/admin/signal_history/authenticate_history/'>, 'user': <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000024B440EF190>>, 'perms': PermWrapper(<SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x0000024B440EF190>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/admin/login/?next=/admin/signal_history/authenticate_history/'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'form': <AdminAuthenticationForm bound=False, valid=Unknown, fields=(username;password)>, 'view': <django.contrib.auth.views.LoginView object at 0x0000024B441F03A0>, 'site_title': 'Django site admin', 'site_header': 'Django administration', 'site_url': '/', 'has_permission': False, 'available_apps': [], 'is_popup': False, 'is_nav_sidebar_enabled': True, 'title': 'Log in', 'app_path': '/admin/login/?next=/admin/signal_history/authenticate_history/', 'username': '', 'next': '/admin/signal_history/authenticate_history/', 'site': <django.contrib.sites.requests.RequestSite object at 0x0000024B4415C0D0>, 'site_name': '127.0.0.1:8000', 'LANGUAGE_CODE': 'en-us', 'LANGUAGE_BIDI': False}, {'block': <Block Node: content_subtitle. Contents: [<IfNode>]>}]
+"GET /admin/login/?next=/admin/signal_history/authenticate_history/ HTTP/1.1" 200 2287
+"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /static/admin/css/login.css HTTP/1.1" 200 954
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\core\handlers\base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\core\handlers\base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\urls\resolvers.py", line 619, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLResolver <module 'signal_history.urls' from 'D:\\shubham\\django_learning\\django_signals\\django_signals\\signal_history\\urls.py'> (None:None) ''>, <URLPattern '' [name='register']>], [<URLResolver <module 'signal_history.urls' from 'D:\\shubham\\django_learning\\django_signals\\django_signals\\signal_history\\urls.py'> (None:None) ''>, <URLPattern 'login/' [name='login_user']>], [<URLResolver <module 'signal_history.urls' from 'D:\\shubham\\django_learning\\django_signals\\django_signals\\signal_history\\urls.py'> (None:None) ''>, <URLPattern 'home/' [name='home']>], [<URLResolver <module 'signal_history.urls' from 'D:\\shubham\\django_learning\\django_signals\\django_signals\\signal_history\\urls.py'> (None:None) ''>, <URLPattern 'logout_user' [name='logout_user']>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 862, in _resolve_lookup
+    current = current[bit]
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 870, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 876, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\shubham\django_learning\django_signals\env\lib\site-packages\django\template\base.py", line 881, in _resolve_lookup
+    raise VariableDoesNotExist("Failed lookup for key "
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2797
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1641532828.4689367
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\conf\locale\en\__init__.py first seen with mtime 1641532825.0471632
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\auth\views.py first seen with mtime 1641532826.1786973
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\conf\locale\en\formats.py first seen with mtime 1641532825.0481615
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\sites\requests.py first seen with mtime 1641532828.263896
+File D:\shubham\django_learning\django_signals\env\Lib\site-packages\django\contrib\admin\forms.py first seen with mtime 1641532825.355628
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."username" = 'rupali' LIMIT 21; args=('rupali',); alias=default
+(0.000) SELECT (1) AS "a" FROM "django_session" WHERE "django_session"."session_key" = 'qvd0i16fxsjbhx90lbjza6clqb4j2y7z' LIMIT 1; args=('qvd0i16fxsjbhx90lbjza6clqb4j2y7z',); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.000) INSERT INTO "django_session" ("session_key", "session_data", "expire_date") SELECT 'qvd0i16fxsjbhx90lbjza6clqb4j2y7z', 'e30:1n6r22:pZ4TsQ3myXwueaKEdwZ5fZwHL72s6OejJIQYgPbVwmw', '2022-01-24 09:32:02.463126'; args=('qvd0i16fxsjbhx90lbjza6clqb4j2y7z', 'e30:1n6r22:pZ4TsQ3myXwueaKEdwZ5fZwHL72s6OejJIQYgPbVwmw', '2022-01-24 09:32:02.463126'); alias=default
+(0.000) UPDATE "auth_user" SET "last_login" = '2022-01-10 09:32:02.471062' WHERE "auth_user"."id" = 5; args=('2022-01-10 09:32:02.471062', 5); alias=default
+(0.000) BEGIN; args=None; alias=default
+(0.016) UPDATE "django_session" SET "session_data" = '.eJxVjDsOwjAQBe_iGln-reOlpOcMlu3d4ABypDipEHeHSCmgfTPzXiKmba1x67zEicRZgDj9bjmVB7cd0D212yzL3NZlynJX5EG7vM7Ez8vh_h3U1Ou31n7IVEyA5CBT0FYlUKOBgsFp9IUMj9YXC4EsZNaGEckpQETlPA_i_QHUMTcp:1n6r22:RR2YAMLn8mlyZ2qmaDAnwO91wpVjEtAQZVE7RteOQTY', "expire_date" = '2022-01-24 09:32:02.479323' WHERE "django_session"."session_key" = 'qvd0i16fxsjbhx90lbjza6clqb4j2y7z'; args=('.eJxVjDsOwjAQBe_iGln-reOlpOcMlu3d4ABypDipEHeHSCmgfTPzXiKmba1x67zEicRZgDj9bjmVB7cd0D212yzL3NZlynJX5EG7vM7Ez8vh_h3U1Ou31n7IVEyA5CBT0FYlUKOBgsFp9IUMj9YXC4EsZNaGEckpQETlPA_i_QHUMTcp:1n6r22:RR2YAMLn8mlyZ2qmaDAnwO91wpVjEtAQZVE7RteOQTY', '2022-01-24 09:32:02.479323', 'qvd0i16fxsjbhx90lbjza6clqb4j2y7z'); alias=default
+"POST /admin/login/?next=/admin/signal_history/authenticate_history/ HTTP/1.1" 302 0
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2022-01-10 09:32:02.489065' AND "django_session"."session_key" = 'qvd0i16fxsjbhx90lbjza6clqb4j2y7z') LIMIT 21; args=('2022-01-10 09:32:02.489065', 'qvd0i16fxsjbhx90lbjza6clqb4j2y7z'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 5 LIMIT 21; args=(5,); alias=default
+(0.000) SELECT COUNT(*) AS "__count" FROM "signal_history_authenticate_history"; args=(); alias=default
+(0.000) SELECT COUNT(*) AS "__count" FROM "signal_history_authenticate_history"; args=(); alias=default
+(0.000) SELECT "signal_history_authenticate_history"."id", "signal_history_authenticate_history"."date_time", "signal_history_authenticate_history"."user_name_id", "signal_history_authenticate_history"."recordstype" FROM "signal_history_authenticate_history" ORDER BY "signal_history_authenticate_history"."id" DESC; args=(); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 13 LIMIT 21; args=(13,); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 13 LIMIT 21; args=(13,); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 5 LIMIT 21; args=(5,); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 5 LIMIT 21; args=(5,); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 12 LIMIT 21; args=(12,); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 11 LIMIT 21; args=(11,); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 5 LIMIT 21; args=(5,); alias=default
+"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 8084
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2022-01-10 09:32:02.582612' AND "django_session"."session_key" = 'qvd0i16fxsjbhx90lbjza6clqb4j2y7z') LIMIT 21; args=('2022-01-10 09:32:02.582612', 'qvd0i16fxsjbhx90lbjza6clqb4j2y7z'); alias=default
+(0.015) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 5 LIMIT 21; args=(5,); alias=default
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+File D:\shubham\django_learning\django_signals\django_signals\django_signals\settings.py previous mtime: 1641807016.8268566, current mtime: 1641807204.0572996
+D:\shubham\django_learning\django_signals\django_signals\django_signals\settings.py notified as changed. Signal results: [(<function template_changed at 0x0000024B434BB520>, None), (<function translation_file_changed at 0x0000024B43D201F0>, None)].
+D:\shubham\django_learning\django_signals\django_signals\django_signals\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2594
+"POST / HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 2164
+logged in now
+"POST /login/ HTTP/1.1" 302 0
+"GET /home/ HTTP/1.1" 200 911
+logged out now
+"GET /logout_user HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 2164
+"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/signal_history/authenticate_history/ HTTP/1.1" 200 2287
+"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+"GET /static/admin/css/login.css HTTP/1.1" 200 954
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2797
+"POST /admin/login/?next=/admin/signal_history/authenticate_history/ HTTP/1.1" 302 0
+"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 8608
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+D:\shubham\django_learning\django_signals\django_signals\signal_history\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\shubham\django_learning\django_signals\django_signals\django_signals\settings.py changed, reloading.
+INFO-2022-01-10 15:11:34,627-Watching for file changes with StatReloader
+INFO-2022-01-10 15:11:45,795-D:\shubham\django_learning\django_signals\django_signals\django_signals\settings.py changed, reloading.
+INFO-2022-01-10 15:11:46,670-Watching for file changes with StatReloader
+INFO-2022-01-10 15:11:57,148-"GET / HTTP/1.1" 200 2594
+INFO-2022-01-10 15:12:20,745-"POST / HTTP/1.1" 302 0
+INFO-2022-01-10 15:12:20,754-"GET /login/ HTTP/1.1" 200 2164
+INFO-2022-01-10 15:12:30,464-logged in now pratik
+INFO-2022-01-10 15:12:30,480-"POST /login/ HTTP/1.1" 302 0
+INFO-2022-01-10 15:12:30,499-"GET /home/ HTTP/1.1" 200 913
+INFO-2022-01-10 15:12:32,670-logged out  now pratik
+INFO-2022-01-10 15:12:32,676-"GET /logout_user HTTP/1.1" 302 0
+INFO-2022-01-10 15:12:32,684-"GET /login/ HTTP/1.1" 200 2164
+INFO-2022-01-10 15:12:36,476-"GET /admin/auth/user/ HTTP/1.1" 302 0
+INFO-2022-01-10 15:12:36,512-"GET /admin/login/?next=/admin/auth/user/ HTTP/1.1" 200 2235
+INFO-2022-01-10 15:12:44,674-"POST /admin/login/?next=/admin/auth/user/ HTTP/1.1" 302 0
+INFO-2022-01-10 15:12:44,736-"GET /admin/auth/user/ HTTP/1.1" 200 10594
+INFO-2022-01-10 15:12:44,776-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 15:12:50,108-"GET /admin/auth/user/ HTTP/1.1" 200 10594
+INFO-2022-01-10 15:12:50,136-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 15:12:52,211-"GET /admin/auth/user/ HTTP/1.1" 200 10594
+INFO-2022-01-10 15:12:52,236-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 15:12:56,531-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9139
+INFO-2022-01-10 15:12:56,556-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 19:08:46,034-Watching for file changes with StatReloader
+INFO-2022-01-10 19:08:48,873-"GET / HTTP/1.1" 200 2594
+INFO-2022-01-10 19:09:12,204-"POST / HTTP/1.1" 302 0
+INFO-2022-01-10 19:09:12,213-"GET /login/ HTTP/1.1" 200 2164
+INFO-2022-01-10 19:09:21,833-logged in now suraj
+INFO-2022-01-10 19:09:21,841-"POST /login/ HTTP/1.1" 302 0
+INFO-2022-01-10 19:09:21,857-"GET /home/ HTTP/1.1" 200 912
+INFO-2022-01-10 19:09:28,728-logged out  now suraj
+INFO-2022-01-10 19:09:28,738-"GET /logout_user HTTP/1.1" 302 0
+INFO-2022-01-10 19:09:28,743-"GET /login/ HTTP/1.1" 200 2164
+INFO-2022-01-10 19:09:43,776-"GET /login/ HTTP/1.1" 200 2164
+INFO-2022-01-10 19:09:55,386-"GET /admin/ HTTP/1.1" 302 0
+INFO-2022-01-10 19:09:55,488-"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+INFO-2022-01-10 19:09:56,657-"GET /admin/ HTTP/1.1" 302 0
+INFO-2022-01-10 19:09:56,691-"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+INFO-2022-01-10 19:10:03,480-"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO-2022-01-10 19:10:03,524-"GET /admin/ HTTP/1.1" 200 6666
+INFO-2022-01-10 19:10:07,943-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-10 19:10:07,978-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 19:10:12,372-"GET /admin/signal_history/authenticate_history/18/change/ HTTP/1.1" 200 8631
+INFO-2022-01-10 19:10:12,404-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 19:10:16,534-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-10 19:10:20,808-"GET /admin/signal_history/authenticate_history/19/change/ HTTP/1.1" 200 8631
+INFO-2022-01-10 19:10:20,843-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 19:10:30,342-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-10 19:10:32,438-"GET /admin/signal_history/authenticate_history/18/change/ HTTP/1.1" 200 8631
+INFO-2022-01-10 19:10:32,467-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 19:10:35,925-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-10 19:10:38,758-"GET / HTTP/1.1" 200 2594
+ERROR-2022-01-10 19:10:56,427-Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python310\lib\site-packages\django\db\backends\sqlite3\base.py", line 416, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Python310\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Python310\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\views.py", line 31, in register
+    user.save()
+  File "C:\Python310\lib\site-packages\django\contrib\auth\base_user.py", line 66, in save
+    super().save(*args, **kwargs)
+  File "C:\Python310\lib\site-packages\django\db\models\base.py", line 743, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Python310\lib\site-packages\django\db\models\base.py", line 780, in save_base
+    updated = self._save_table(
+  File "C:\Python310\lib\site-packages\django\db\models\base.py", line 885, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Python310\lib\site-packages\django\db\models\base.py", line 923, in _do_insert
+    return manager._insert(
+  File "C:\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Python310\lib\site-packages\django\db\models\query.py", line 1301, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1441, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Python310\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python310\lib\site-packages\django\db\backends\sqlite3\base.py", line 416, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username
+ERROR-2022-01-10 19:10:56,433-"POST / HTTP/1.1" 500 153824
+ERROR-2022-01-10 19:11:27,080-Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python310\lib\site-packages\django\db\backends\sqlite3\base.py", line 416, in execute
+    return Database.Cursor.execute(self, query, params)
+sqlite3.IntegrityError: UNIQUE constraint failed: auth_user.username
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Python310\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Python310\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\views.py", line 31, in register
+    user.save()
+  File "C:\Python310\lib\site-packages\django\contrib\auth\base_user.py", line 66, in save
+    super().save(*args, **kwargs)
+  File "C:\Python310\lib\site-packages\django\db\models\base.py", line 743, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "C:\Python310\lib\site-packages\django\db\models\base.py", line 780, in save_base
+    updated = self._save_table(
+  File "C:\Python310\lib\site-packages\django\db\models\base.py", line 885, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "C:\Python310\lib\site-packages\django\db\models\base.py", line 923, in _do_insert
+    return manager._insert(
+  File "C:\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Python310\lib\site-packages\django\db\models\query.py", line 1301, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Python310\lib\site-packages\django\db\models\sql\compiler.py", line 1441, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 99, in execute
+    return super().execute(sql, params)
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 80, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Python310\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Python310\lib\site-packages\django\db\backends\utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Python310\lib\site-packages\django\db\backends\sqlite3\base.py", line 416, in execute
+    return Database.Cursor.execute(self, query, params)
+django.db.utils.IntegrityError: UNIQUE constraint failed: auth_user.username
+ERROR-2022-01-10 19:11:27,081-"POST / HTTP/1.1" 500 153824
+INFO-2022-01-10 19:11:36,004-"GET /admin/auth/user/ HTTP/1.1" 200 10994
+INFO-2022-01-10 19:11:36,048-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 19:11:43,108-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-10 19:11:43,135-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-10 19:15:05,456-"GET /login/ HTTP/1.1" 200 2164
+INFO-2022-01-10 19:15:21,206-C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\admin.py changed, reloading.
+INFO-2022-01-10 19:15:22,128-Watching for file changes with StatReloader
+INFO-2022-01-10 19:15:26,638-C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\admin.py changed, reloading.
+INFO-2022-01-10 19:15:27,537-Watching for file changes with StatReloader
+INFO-2022-01-10 19:15:32,270-C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\admin.py changed, reloading.
+INFO-2022-01-11 09:34:04,847-Watching for file changes with StatReloader
+INFO-2022-01-11 09:34:53,068-"GET / HTTP/1.1" 200 2594
+WARNING-2022-01-11 09:34:53,375-Not Found: /favicon.ico
+WARNING-2022-01-11 09:34:53,376-"GET /favicon.ico HTTP/1.1" 404 2797
+INFO-2022-01-11 09:35:01,899-"GET /admin/ HTTP/1.1" 200 6666
+INFO-2022-01-11 09:35:01,928-"GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:01,929-"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:01,936-"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:01,936-"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:01,937-"GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:01,938-"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:01,950-"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:01,950-"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:01,950-"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:02,004-"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:02,004-"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:02,007-"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,713-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-11 09:35:03,744-"GET /static/admin/js/core.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,746-"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,750-"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,753-"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,753-"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,755-"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,760-"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,761-"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,766-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:35:03,767-"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:03,816-"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:05,863-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-11 09:35:05,905-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:35:06,067-"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO-2022-01-11 09:35:06,093-"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO-2022-01-11 09:35:06,103-"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO-2022-01-11 09:35:06,117-"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO-2022-01-11 09:35:06,119-"GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+INFO-2022-01-11 09:35:06,120-"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO-2022-01-11 09:35:06,125-"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+INFO-2022-01-11 09:35:06,128-"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO-2022-01-11 09:35:06,145-"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO-2022-01-11 09:35:06,148-"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO-2022-01-11 09:35:06,149-"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO-2022-01-11 09:35:06,217-"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO-2022-01-11 09:35:06,217-"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO-2022-01-11 09:35:06,247-"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+INFO-2022-01-11 09:35:06,269-"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:35:06,270-"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:35:06,271-"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO-2022-01-11 09:35:06,277-"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO-2022-01-11 09:35:06,280-"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+WARNING-2022-01-11 09:35:06,349-Not Found: /favicon.ico
+WARNING-2022-01-11 09:35:06,349-"GET /favicon.ico HTTP/1.1" 404 2797
+INFO-2022-01-11 09:35:11,295-C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\admin.py changed, reloading.
+INFO-2022-01-11 09:35:12,121-Watching for file changes with StatReloader
+INFO-2022-01-11 09:35:15,049-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-11 09:35:15,102-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:35:15,242-"GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+INFO-2022-01-11 09:35:15,249-"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO-2022-01-11 09:35:15,266-"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO-2022-01-11 09:35:15,274-"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+INFO-2022-01-11 09:35:15,283-"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO-2022-01-11 09:35:15,290-"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO-2022-01-11 09:35:15,294-"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO-2022-01-11 09:35:15,295-"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO-2022-01-11 09:35:15,298-"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO-2022-01-11 09:35:15,306-"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO-2022-01-11 09:35:15,306-"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO-2022-01-11 09:35:15,313-"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO-2022-01-11 09:35:15,315-"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO-2022-01-11 09:35:15,344-"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+INFO-2022-01-11 09:35:15,363-"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:35:15,364-"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO-2022-01-11 09:35:15,370-"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:35:15,371-"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO-2022-01-11 09:35:15,372-"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+WARNING-2022-01-11 09:35:15,464-Not Found: /favicon.ico
+WARNING-2022-01-11 09:35:15,465-"GET /favicon.ico HTTP/1.1" 404 2797
+INFO-2022-01-11 09:35:22,116-"GET /admin/signal_history/authenticate_history/19/change/ HTTP/1.1" 200 8631
+INFO-2022-01-11 09:35:22,141-"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:22,142-"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:22,145-"GET /static/admin/js/calendar.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:22,150-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:35:22,152-"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:22,156-"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:22,184-"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:22,219-"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:22,219-"GET /static/admin/img/icon-clock.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:25,082-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-11 09:35:27,442-"GET /admin/auth/user/ HTTP/1.1" 200 10994
+INFO-2022-01-11 09:35:27,466-"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:27,472-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:35:27,474-"GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:27,480-"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:27,497-"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:35:34,601-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 9665
+INFO-2022-01-11 09:37:44,699-C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\admin.py changed, reloading.
+INFO-2022-01-11 09:37:45,641-Watching for file changes with StatReloader
+INFO-2022-01-11 09:37:47,221-C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\admin.py changed, reloading.
+INFO-2022-01-11 09:37:48,341-Watching for file changes with StatReloader
+INFO-2022-01-11 09:37:50,380-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 11021
+INFO-2022-01-11 09:37:50,443-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:37:50,593-"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO-2022-01-11 09:37:50,595-"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO-2022-01-11 09:37:50,601-"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO-2022-01-11 09:37:50,604-"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+INFO-2022-01-11 09:37:50,608-"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO-2022-01-11 09:37:50,622-"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO-2022-01-11 09:37:50,624-"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO-2022-01-11 09:37:50,630-"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO-2022-01-11 09:37:50,633-"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO-2022-01-11 09:37:50,640-"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO-2022-01-11 09:37:50,641-"GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+INFO-2022-01-11 09:37:50,644-"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO-2022-01-11 09:37:50,645-"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO-2022-01-11 09:37:50,673-"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+INFO-2022-01-11 09:37:50,690-"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:37:50,690-"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:37:50,692-"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO-2022-01-11 09:37:50,703-"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO-2022-01-11 09:37:50,703-"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING-2022-01-11 09:37:50,764-Not Found: /favicon.ico
+WARNING-2022-01-11 09:37:50,765-"GET /favicon.ico HTTP/1.1" 404 2797
+INFO-2022-01-11 09:45:49,961-"GET /admin/ HTTP/1.1" 200 6666
+INFO-2022-01-11 09:46:03,057-"GET / HTTP/1.1" 200 2594
+INFO-2022-01-11 09:46:22,343-"POST / HTTP/1.1" 302 0
+INFO-2022-01-11 09:46:22,360-"GET /login/ HTTP/1.1" 200 2164
+INFO-2022-01-11 09:46:31,368-logged in now lakshit
+INFO-2022-01-11 09:46:31,379-"POST /login/ HTTP/1.1" 302 0
+INFO-2022-01-11 09:46:31,404-"GET /home/ HTTP/1.1" 200 914
+INFO-2022-01-11 09:46:35,319-logged out  now lakshit
+INFO-2022-01-11 09:46:35,332-"GET /logout_user HTTP/1.1" 302 0
+INFO-2022-01-11 09:46:35,337-"GET /login/ HTTP/1.1" 200 2164
+INFO-2022-01-11 09:46:49,684-"GET /admin/ HTTP/1.1" 302 0
+INFO-2022-01-11 09:46:49,753-"GET /admin/login/?next=/admin/ HTTP/1.1" 200 2215
+INFO-2022-01-11 09:46:49,808-"GET /static/admin/css/login.css HTTP/1.1" 304 0
+INFO-2022-01-11 09:46:59,926-"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO-2022-01-11 09:46:59,954-"GET /admin/ HTTP/1.1" 200 6666
+INFO-2022-01-11 09:47:03,973-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 11710
+INFO-2022-01-11 09:47:04,022-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:47:24,621-"GET / HTTP/1.1" 200 2594
+INFO-2022-01-11 09:47:55,292-"POST / HTTP/1.1" 302 0
+INFO-2022-01-11 09:47:55,297-"GET /login/ HTTP/1.1" 200 2164
+INFO-2022-01-11 09:48:01,972-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 11710
+INFO-2022-01-11 09:48:02,001-"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO-2022-01-11 09:48:02,002-"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO-2022-01-11 09:48:02,018-"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO-2022-01-11 09:48:02,023-"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO-2022-01-11 09:48:02,029-"GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+INFO-2022-01-11 09:48:02,030-"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO-2022-01-11 09:48:02,034-"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO-2022-01-11 09:48:02,041-"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO-2022-01-11 09:48:02,043-"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO-2022-01-11 09:48:02,044-"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO-2022-01-11 09:48:02,050-"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+INFO-2022-01-11 09:48:02,050-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:48:02,054-"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO-2022-01-11 09:48:02,056-"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO-2022-01-11 09:48:02,068-"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+INFO-2022-01-11 09:48:02,106-"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO-2022-01-11 09:48:02,112-"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:48:02,112-"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:48:02,120-"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO-2022-01-11 09:48:02,121-"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+WARNING-2022-01-11 09:48:02,226-Not Found: /favicon.ico
+WARNING-2022-01-11 09:48:02,228-"GET /favicon.ico HTTP/1.1" 404 2797
+INFO-2022-01-11 09:48:18,964-"GET /admin/auth/user/ HTTP/1.1" 200 11798
+INFO-2022-01-11 09:48:18,998-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:48:20,526-"GET /admin/auth/user/ HTTP/1.1" 200 11798
+INFO-2022-01-11 09:48:20,561-"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO-2022-01-11 09:48:20,562-"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO-2022-01-11 09:48:20,573-"GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+INFO-2022-01-11 09:48:20,579-"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO-2022-01-11 09:48:20,583-"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO-2022-01-11 09:48:20,584-"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO-2022-01-11 09:48:20,590-"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO-2022-01-11 09:48:20,597-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:48:20,599-"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+INFO-2022-01-11 09:48:20,599-"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO-2022-01-11 09:48:20,600-"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO-2022-01-11 09:48:20,606-"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO-2022-01-11 09:48:20,611-"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO-2022-01-11 09:48:20,614-"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO-2022-01-11 09:48:20,634-"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+INFO-2022-01-11 09:48:20,660-"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO-2022-01-11 09:48:20,667-"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO-2022-01-11 09:48:20,683-"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO-2022-01-11 09:48:20,687-"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO-2022-01-11 09:48:20,690-"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:48:20,691-"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:48:20,695-"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO-2022-01-11 09:48:20,695-"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO-2022-01-11 09:48:20,709-"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+WARNING-2022-01-11 09:48:20,797-Not Found: /favicon.ico
+WARNING-2022-01-11 09:48:20,798-"GET /favicon.ico HTTP/1.1" 404 2797
+INFO-2022-01-11 09:48:26,481-"GET /admin/auth/user/18/change/ HTTP/1.1" 200 16168
+INFO-2022-01-11 09:48:26,526-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:48:26,528-"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:48:26,528-"GET /static/admin/js/SelectBox.js HTTP/1.1" 304 0
+INFO-2022-01-11 09:48:26,636-"GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:48:26,638-"GET /static/admin/img/icon-unknown.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:48:26,638-"GET /static/admin/img/selector-icons.svg HTTP/1.1" 304 0
+INFO-2022-01-11 09:48:55,437-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 11710
+INFO-2022-01-11 09:48:55,470-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:49:05,462-"GET /admin/auth/user/ HTTP/1.1" 200 11798
+INFO-2022-01-11 09:49:05,503-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:49:18,953-"GET /admin/auth/user/ HTTP/1.1" 200 11798
+INFO-2022-01-11 09:49:18,979-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:49:40,992-"GET /admin/signal_history/authenticate_history/ HTTP/1.1" 200 11710
+INFO-2022-01-11 09:49:41,023-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:49:50,462-"GET /admin/auth/user/ HTTP/1.1" 200 11798
+INFO-2022-01-11 09:49:50,501-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:50:04,780-"GET /admin/auth/user/17/change/ HTTP/1.1" 200 16214
+INFO-2022-01-11 09:50:04,820-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:53:20,513-C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\admin.py changed, reloading.
+INFO-2022-01-11 09:53:21,516-Watching for file changes with StatReloader
+INFO-2022-01-11 09:54:44,546-C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\admin.py changed, reloading.
+INFO-2022-01-11 09:54:45,426-Watching for file changes with StatReloader
+INFO-2022-01-11 09:56:04,604-Watching for file changes with StatReloader
+INFO-2022-01-11 09:56:14,772-"GET /admin/auth/user/ HTTP/1.1" 200 7330
+INFO-2022-01-11 09:56:14,807-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:56:16,318-"GET /admin/auth/user/ HTTP/1.1" 200 7330
+INFO-2022-01-11 09:56:16,375-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:56:16,531-"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO-2022-01-11 09:56:16,538-"GET /static/admin/js/core.js HTTP/1.1" 200 5698
+INFO-2022-01-11 09:56:16,542-"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 5984
+INFO-2022-01-11 09:56:16,546-"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+INFO-2022-01-11 09:56:16,551-"GET /static/admin/js/urlify.js HTTP/1.1" 200 7902
+INFO-2022-01-11 09:56:16,555-"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO-2022-01-11 09:56:16,563-"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO-2022-01-11 09:56:16,566-"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+INFO-2022-01-11 09:56:16,574-"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 288580
+INFO-2022-01-11 09:56:16,577-"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO-2022-01-11 09:56:16,581-"GET /static/admin/css/changelists.css HTTP/1.1" 200 6932
+INFO-2022-01-11 09:56:16,591-"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO-2022-01-11 09:56:16,596-"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO-2022-01-11 09:56:16,606-"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+INFO-2022-01-11 09:56:16,627-"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:56:16,627-"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO-2022-01-11 09:56:16,628-"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO-2022-01-11 09:56:16,638-"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO-2022-01-11 09:56:16,639-"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+WARNING-2022-01-11 09:56:16,705-Not Found: /favicon.ico
+WARNING-2022-01-11 09:56:16,705-"GET /favicon.ico HTTP/1.1" 404 2797
+INFO-2022-01-11 09:56:20,382-"GET /admin/auth/user/17/change/ HTTP/1.1" 200 25439
+INFO-2022-01-11 09:56:20,412-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 09:56:20,428-"GET /static/admin/js/inlines.js HTTP/1.1" 200 14969
+INFO-2022-01-11 09:56:20,521-"GET /static/admin/img/inline-delete.svg HTTP/1.1" 200 560
+INFO-2022-01-11 10:01:20,279-"GET /admin/auth/user/ HTTP/1.1" 200 7330
+INFO-2022-01-11 10:01:20,317-"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+INFO-2022-01-11 10:01:22,428-"GET /admin/ HTTP/1.1" 200 5892
+INFO-2022-01-11 10:01:25,337-"GET /admin/ HTTP/1.1" 200 5892
+INFO-2022-01-11 10:01:25,364-"GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO-2022-01-11 10:01:25,364-"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO-2022-01-11 10:01:25,369-"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3401
+INFO-2022-01-11 10:01:25,370-"GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO-2022-01-11 10:01:25,375-"GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO-2022-01-11 10:01:25,378-"GET /static/admin/css/dashboard.css HTTP/1.1" 200 380
+INFO-2022-01-11 10:01:25,403-"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO-2022-01-11 10:01:25,404-"GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO-2022-01-11 10:01:25,405-"GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO-2022-01-11 10:01:25,409-"GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO-2022-01-11 10:01:25,413-"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO-2022-01-11 10:01:25,414-"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+WARNING-2022-01-11 10:01:25,463-Not Found: /favicon.ico
+WARNING-2022-01-11 10:01:25,464-"GET /favicon.ico HTTP/1.1" 404 2797
+INFO-2022-01-11 10:01:40,051-C:\Users\prati\Downloads\django_signal_project-master\django_signal_project-master\signal_history\admin.py changed, reloading.
+INFO-2022-01-11 10:01:40,948-Watching for file changes with StatReloader
